@@ -1,0 +1,12 @@
+monitor: https://www.amazon.co.uk/Dell-S2421H-1920x1080-FreeSync-Ultrathin/dp/B08GGDHQ99/ref=sr_1_13?crid=1ONT53HXIUW8W&dchild=1&keywords=monitor&qid=1611238976&sprefix=mo%2Caps%2C173&sr=8-13
+mouse/keyboard: https://www.amazon.co.uk/CiT-USB-Keyboard-Mouse-Combo/dp/B00647IDCU/ref=sr_1_3?crid=2Q5IGHGG8ZKWH&dchild=1&keywords=keyboard+and+mouse+set&qid=1611239080&sprefix=keyboard+%2Caps%2C272&sr=8-3
+computer: https://www.amazon.co.uk/ACEPC-T11-Computer-Processor-Bluetooth/dp/B08FSR28QM/ref=sr_1_5?dchild=1&keywords=desktop&qid=1611238988&sr=8-5
+chair: https://www.amazon.co.uk/COMHOMA-Computer-Ergonomic-Conference-Executive/dp/B0829R19YZ/ref=sr_1_5?crid=2W7YXH7P4CZ8T&dchild=1&keywords=desk+chair&qid=1611239857&sprefix=desk+c%2Caps%2C167&sr=8-5
+desk: https://www.amazon.co.uk/Coavas-Computer-L-Shaped-Workstation-148x112x74/dp/B016U6O0US/ref=sr_1_26?crid=30OZ8HKY7CXWL&dchild=1&keywords=desk+and+chair+set+office&qid=1611239047&sprefix=desk+and+chair+set%23%2Caps%2C154&sr=8-26
+router: https://www.amazon.co.uk/D-Link-DIR%E2%80%912660-MU-MIMo-Compatible-Protection/dp/B07Q6GNWGV/ref=sxin_9?ascsubtag=amzn1.osa.031bea67-a676-467d-800c-c8fe726d4190.A1F83G8C2ARO7P.en_GB&creativeASIN=B07Q6GNWGV&cv_ct_cx=router&cv_ct_id=amzn1.osa.031bea67-a676-467d-800c-c8fe726d4190.A1F83G8C2ARO7P.en_GB&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-earns-comm&dchild=1&keywords=router&linkCode=oas&pd_rd_i=B07Q6GNWGV&pd_rd_r=5eb4c27f-6753-44d6-a39a-7d613b0ff130&pd_rd_w=78K2X&pd_rd_wg=1fQl9&pf_rd_p=0a3a8a59-63d3-4d6d-a65e-d0be4daeb691&pf_rd_r=9WPZ9H564G5865VA9W5C&qid=1611239098&sr=1-1-483c64d8-df78-4008-ae20-e69f683e58b1&tag=taukosp-21
+switch: https://www.amazon.co.uk/dp/B07HP5TN4S/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=TisYa6HKkTzACFhlHNnA6w&hsa_cr_id=3197735430602&pd_rd_plhdr=t&pd_rd_r=25f97626-a936-4423-b417-e4f4da3af689&pd_rd_w=2uA3w&pd_rd_wg=Xy2Po&ref_=sbx_be_s_sparkle_mcd_asin_0_img
+ethernet(long): https://www.amazon.co.uk/Multi-cable-Networking-outdoor-Direct-Ethernet/dp/B00I461X6M/ref=sr_1_3?dchild=1&keywords=ethernet+cable+50m&qid=1611239255&sr=8-3
+ethernet(short): https://www.amazon.co.uk/Ethernet-Cable-Switch-Compatible-Network-Cable-Included-WHITE-White/dp/B07NZMY9NT/ref=sr_1_3?dchild=1&keywords=ethernet+cable+5m&qid=1611239316&sr=8-3
+
+DESK cost: 514
+Netowrk cost: 436
