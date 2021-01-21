@@ -1,0 +1,20 @@
+Academic staff: 7 pcs (keyboards, mice, monitors, cables, desks, chairs)
+
+PHD: 10pcs/room (keyboards, mice, monitors, cables, chairs, desks) x3
+
+10 hotspots
+1 printer
+
+Cost
+========================
+PC: 800		x37 = 29600
+Keyboard: 15	x37 = 555
+Mice: 10	x37 = 370
+Monitor: 100	x37 = 3700
+Cables:	20	x37 = 740
+Desk: 100	x37 = 3700
+Chair: 70	x37 = 2590
+
+Hotspot: 93	x10 = 930
+Printer: 150	x1 = 150
+Total: 			42335
