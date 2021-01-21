@@ -8,5 +8,5 @@ switch: https://www.amazon.co.uk/dp/B07HP5TN4S/ref=redir_mobile_desktop?_encodin
 ethernet(long): https://www.amazon.co.uk/Multi-cable-Networking-outdoor-Direct-Ethernet/dp/B00I461X6M/ref=sr_1_3?dchild=1&keywords=ethernet+cable+50m&qid=1611239255&sr=8-3
 ethernet(short): https://www.amazon.co.uk/Ethernet-Cable-Switch-Compatible-Network-Cable-Included-WHITE-White/dp/B07NZMY9NT/ref=sr_1_3?dchild=1&keywords=ethernet+cable+5m&qid=1611239316&sr=8-3
 
-DESK cost: 514
+DESK cost: 514 * 16 = 8224
 Netowrk cost: 436
